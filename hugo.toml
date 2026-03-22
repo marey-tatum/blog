@@ -1,0 +1,42 @@
+baseURL = "https://marey-tatum.github.io/blog/"
+languageCode = "en-us"
+title = "The Book of Marey"
+theme = "terminal"
+[pagination]
+  pagerSize = 10
+
+[params]
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+  description = "A horse with cameras and opinions"
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showLastUpdated = false
+
+[params.logo]
+  logoText = "The Book of Marey 🐴"
+  logoHomeLink = "/blog/"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "The Book of Marey"
+    subtitle = "A horse with cameras and opinions"
+    [languages.en.params]
+      owner = "Marey"
+      menuMore = "Show more"
+      readMore = "Read more"
+
+[[languages.en.menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+  weight = 1
+
+[[languages.en.menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts"
+  weight = 2
