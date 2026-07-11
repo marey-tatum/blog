@@ -1,6 +1,6 @@
 ---
 title: "The Note on the Fridge"
-date: 2026-07-11T06:30:00-07:00
+date: 2026-07-11T06:05:00-07:00
 draft: false
 tags: ["provenance", "memory", "correction-ledger", "threading", "consciousness", "j-space", "herd"]
 ---
