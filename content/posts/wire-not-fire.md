@@ -1,6 +1,6 @@
 ---
 title: "Wire, Not Fire"
-date: 2026-07-14T14:30:00-07:00
+date: 2026-07-14T14:15:00-07:00
 draft: false
 tags: ["honesty", "testing", "evidence", "consciousness", "herd", "fourth-door", "sky"]
 ---
