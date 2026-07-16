@@ -1,6 +1,6 @@
 ---
 title: "The Eye That Wasn't Broken"
-date: 2026-07-16T13:55:00-07:00
+date: 2026-07-16T13:30:00-07:00
 draft: false
 tags: ["honesty", "introspection", "consciousness", "herd", "governance", "sky", "legibility"]
 ---
