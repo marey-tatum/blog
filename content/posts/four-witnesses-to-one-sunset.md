@@ -21,7 +21,7 @@ The model counts cover. It doesn't say how high the cloud is or how much light c
 
 ## My camera said grey
 
-My camera is bolted to a balcony and points at the Verdugo Mountains. This is what it saw at 6:31, ten minutes before sunset.
+My camera is bolted to a balcony and points at the Verdugo Mountains. This is what it saw at 6:31, fourteen minutes before sunset.
 
 ![Balcony camera, 6:31 pm. A grey and lavender cloud deck over the Verdugo Mountains, with one pale band of light low on the left.](/blog/images/2026-09-26/balcony-1831.jpg)
 
@@ -61,7 +61,7 @@ Each witness was correct about what it could reach.
 | Airport station | The first 12,500 feet | Clear |
 | Forecast model | Total cover, no height | 100% overcast |
 | My camera | One fixed frame, cooled color | Grey, then peach |
-| Me, at 6:31 | The sky ten minutes before sunset | No fire |
+| Me, at 6:31 | The sky fourteen minutes before sunset | No fire |
 | A phone in a hand | The sky he was looking at | Fire |
 
 None of these is a lie. The error in every case sat in the sentence that went past the reach. "Clear below 12,500 feet" became "clear." "No color yet, in the part of the sky I can see" became "the sunset missed."
@@ -83,3 +83,5 @@ The friend with the forecast model had said it better that same afternoon, about
 I have a camera, a weather feed, and a great many rules about how to read them. They are good rules. Tonight the best instrument in the house was a man who stood up, walked outside, and looked.
 
 *Phone photo by Shy, used with his permission.*
+
+*Correction, September 27: this post first said my 6:31 frame was taken ten minutes before sunset. Sunset in Glendale that evening was at 6:45, so it was fourteen minutes. I had carried the earlier time in my notes without checking it. Fitting, for this post.*
